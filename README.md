@@ -65,7 +65,7 @@ Credits
 
 Apple for macOS
 
-AMD for ATOM VBIOS parsing code
+AMD for Hardware
 
 OSY86 for HaC-Mini
 
