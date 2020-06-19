@@ -38,3 +38,10 @@ Working Software
  Metal, GPU accelerated applications, hardware video encoder/decoder
  Parallels/VMWare, other VM software
  Handoff, Continuity, Universal Clipboard, Apple Watch unlock (using Apple Wifi card)
+
+Credits
+Apple for macOS
+AMD for ATOM VBIOS parsing code
+OSY86 for HaC-Mini
+acidanthera
+vit9696
