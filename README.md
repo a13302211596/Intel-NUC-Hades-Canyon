@@ -67,7 +67,7 @@ Apple for macOS
 
 AMD for Hardware
 
-OSY86 for Polaris22Fixup ThunderboltPatcher USBWakeFixup
+OSY86 for HaC-Mini
 
 acidanthera
 
